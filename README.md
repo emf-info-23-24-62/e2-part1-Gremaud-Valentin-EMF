@@ -71,9 +71,9 @@ Vous devez maintenant :
 ### Aide
 
 Vous pouvez consulter la documentation officielle de Hastebin :  
+Et utiliser MagicSchool.AI pour toute aide technique autorisée. https://student.magicschool.ai/s/join 
 https://github.com/seejohnrun/haste-server
 
-Et utiliser MagicSchool.AI pour toute aide technique autorisée. https://student.magicschool.ai/s/join 
 
 Le code de session vous sera fourni par l'enseignant.
 
